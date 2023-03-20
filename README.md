@@ -1,4 +1,4 @@
-![MasterHead](https://gifer.com/embed/XO1v)
+![MasterHead](<iframe src="https://gifer.com/embed/XO1v" width=480 height=269.760 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">через GIFER</a></p>)
 <h1 align="center">Hi 👋, I'm Georgiy Khabner</h1>
 <h3 align="center">A default Russian student of ITMO</h3>
 
