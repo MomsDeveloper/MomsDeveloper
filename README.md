@@ -1,5 +1,10 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif) -->
-![MasterHead](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzhkODA4ZDUxY2FhMDU4NzQxZjM1MWFiMjAyOWI1MGJkYjc4ODViYSZjdD1z/1BeE7pCRWrvxJgdTib/giphy.gif)
+![MasterHead]()
+<!-- <img => -->
+<style>
+   .mirrorY { transform: scale(1, -1); }
+  </style>
+<img src="https://memestatic1.fjcdn.com/thumbnails/comments/Nice+compilation+op+have+some+oc+i+made+earlier+today+_81477ae44c55639c35993782d5d8d608.gif" alt="Italian Trulli" class="mirrorY" width=100px>
 <h1 align="left">Hi 👋, I'm Georgiy Khabner</h1>
 
 <h3 align="left">Connect with me:</h3>
