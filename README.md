@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c9333860263553.5a4f4c443d157.gif | width=100) -->
 <!-- (<img src="[https://github.com/favicon.ico](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png)" width="48"> -->
 
-<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c9333860263553.5a4f4c443d157.gif" width="200">
+<img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/c9333860263553.5a4f4c443d157.gif" width="900">
 <h1 align="center">Hi 👋, I'm Georgiy Khabner</h1>
 <h3 align="center">A default Russian student of ITMO</h3>
 
