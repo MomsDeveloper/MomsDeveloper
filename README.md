@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/22b22287602523.5dbd29081561d.gif)
+![MasterHead](https://gifer.com/embed/XO1v)
 <h1 align="center">Hi 👋, I'm Georgiy Khabner</h1>
 <h3 align="center">A default Russian student of ITMO</h3>
 
