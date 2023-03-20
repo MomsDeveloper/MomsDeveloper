@@ -1,4 +1,4 @@
-<!-- ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/c9333860263553.5a4f4c443d157.gif | width=100) -->
+![MasterHead](https://i.yapx.cc/VakAF.gif)
 <h1 align="left">Hi 👋, I'm Georgiy Khabner</h1>
 
 <h3 align="left">Connect with me:</h3>
