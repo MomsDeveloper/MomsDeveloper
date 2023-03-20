@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-- georgiy.khabner@mail.ru
+[my mail](https://mail.ru/georgiy.khabner@mail.ru)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
