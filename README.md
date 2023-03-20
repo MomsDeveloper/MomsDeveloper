@@ -1,5 +1,5 @@
 <!-- ![MasterHead](https://user-images.githubusercontent.com/29340294/150726291-afd08470-3b21-4df6-8173-293ece555d4f.gif) -->
-<img src="https://memestatic1.fjcdn.com/thumbnails/comments/Nice+compilation+op+have+some+oc+i+made+earlier+today+_81477ae44c55639c35993782d5d8d608.gif" alt="Italian Trulli" class="mirrorY" width=150px>
+<img src="https://memestatic1.fjcdn.com/thumbnails/comments/Nice+compilation+op+have+some+oc+i+made+earlier+today+_81477ae44c55639c35993782d5d8d608.gif" alt="Italian Trulli" class="mirrorY" width=150px align="right">
 <h1 align="left">Hi 👋, I'm Georgiy Khabner</h1>
 
 <h3 align="left">Connect with me:</h3>
